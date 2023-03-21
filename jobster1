@@ -1,0 +1,3 @@
+$ git --version
+npm install -g npm
+npm install --global yarn
